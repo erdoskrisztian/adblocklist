@@ -1,0 +1,23 @@
+# Title: My Own DNS Blocklist
+# Description: It is a simple DNS block list to prevent as much AD as possible.
+# Homepage: https://github.com/erdoskrisztian/adblocklist
+# Expires: 9999 day
+# Last modified: 18 Jul 2025 14:27 CET
+# Version: 2025.0718.14:27.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 15
+adocean.pl
+indexhu.adocean.pl
+gemius.pl
+hit.gemius.pl
+pro.hit.gemius.pl
+ls.hit.gemius.pl
+gasurvey.gemius.com
+hu.hit.gemius.pl
+ghmhu.hit.gemius.pl
+gahu.gemius.pl
+gahu.hit.gemius.pl
+gdehu.hit.gemius.pl
+huadn.hit.gemius.pl
+gemadhu.hit.gemius.pl
+huiwiw.hit.gemius.pl
