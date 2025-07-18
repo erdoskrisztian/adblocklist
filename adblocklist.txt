@@ -2,10 +2,10 @@
 # Description: It is a simple DNS block list to prevent as much AD as possible.
 # Homepage: https://github.com/erdoskrisztian/adblocklist
 # Expires: 9999 day
-# Last modified: 18 Jul 2025 14:50 CET
-# Version: 2025.0718.14:50.01
+# Last modified: 18 Jul 2025 14:56 CET
+# Version: 2025.0718.14:56.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 19
+# Number of entries: 20
 adocean.pl
 indexhu.adocean.pl
 gemius.pl
@@ -25,3 +25,4 @@ indexadhu.hit.gemius.pl
 googleadservices.com
 googlesyndication.com
 tpc.googlesyndication.com
+safeframe.googlesyndication.com
