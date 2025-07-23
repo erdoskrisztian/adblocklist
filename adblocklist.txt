@@ -8,6 +8,7 @@
 # Number of entries: 42
 adocean.pl
 indexhu.adocean.pl
+indexadhu.hit.gemius.pl
 gemius.pl
 hit.gemius.pl
 pro.hit.gemius.pl
